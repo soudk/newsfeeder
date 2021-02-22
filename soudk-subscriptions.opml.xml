@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<opml version="1.0">
+	<head>
+	<title>Newfeeder subscriptions</title>
+	</head>
+	<body>
+		<outline type="rss" text="BBC News - Home" title="BBC News - Home" xmlUrl="http://feeds.bbci.co.uk/news/rss.xml?edition=int#" htmlUrl="https://www.bbc.co.uk/news/" />
+		<outline type="atom" text="Web, app and tooling development and graphic design studio. View all websites made by Echo Sierra Studio and contact us if your interested." title="Echo Sierra Studio" xmlUrl="https://esstudio.site/feed" htmlUrl="https://esstudio.site/" />
+		<outline type="rss" text="Oman Observer" title="Oman Observer" xmlUrl="https://www.omanobserver.om/feed/" htmlUrl="https://www.omanobserver.om" />
+		<outline type="rss" text="Gulf News rss feed" title="Gulf News" xmlUrl="http://gulfnews.newspaperdirect.com/epaper/services/rss.ashx?cid=1125" htmlUrl="http://gulfnews.newspaperdirect.com/epaper/viewer.aspx?newspaper=gulf+news&amp;cid=1125" />
+		<outline type="atom" title="Vox -  All" xmlUrl="http://www.vox.com/rss/index.xml" htmlUrl="http://www.vox.com/" />
+		<outline type="rss" text="BBC News - Home" title="BBC News - Home" xmlUrl="http://newsrss.bbc.co.uk/rss/newsonline_world_edition/front_page/rss.xml" htmlUrl="https://www.bbc.co.uk/news/" />
+		<outline type="rss" text="N/A" title="NYT &gt; Top Stories" xmlUrl="http://www.nytimes.com/services/xml/rss/nyt/HomePage.xml" htmlUrl="https://www.nytimes.com" />
+		<outline type="rss" text="N/A" title="The world this week" xmlUrl="http://www.economist.com/rss/the_world_this_week_rss.xml" htmlUrl="https://www.economist.com/the-world-this-week/" />
+		<outline type="rss" text="Montreal Latest News, Breaking Headlines &amp; Sports" title="Montreal Gazette" xmlUrl="http://montrealgazette.com/feed/" htmlUrl="https://montrealgazette.com" />
+		<outline type="rss" text="Science news and technology updates from Scientific American" title="Scientific American News" xmlUrl="http://rss.sciam.com/ScientificAmerican-News" htmlUrl="https://www.scientificamerican.com/section/news/" />
+		<outline type="rss" text="FOR PERSONAL USE ONLY" title="CBC | Top Stories News" xmlUrl="http://rss.cbc.ca/lineup/topstories.xml" htmlUrl="http://www.cbc.ca/news/?cmp=rss" />
+		<outline type="rss" text="World-class underground science facility" title="News – SNOLAB" xmlUrl="https://www.snolab.ca/news/feed/" htmlUrl="https://www.snolab.ca" />
+		<outline type="rss" text="Stories by Alex Wong on Medium" title="Stories by Alex Wong on Medium" xmlUrl="https://medium.com/feed/@wzm" htmlUrl="https://medium.com/@wzm?source=rss-2898b40714f8------2" />
+		<outline type="rss" text="Stories by Barack Obama on Medium" title="Stories by Barack Obama on Medium" xmlUrl="https://medium.com/feed/@BarackObama" htmlUrl="https://medium.com/@barackobama?source=rss-9e422a605dc5------2" />
+		<outline type="rss" text="Canadian Particle Astrophysics Research Centre" title="Arthur B. McDonald Institute" xmlUrl="https://mcdonaldinstitute.ca/feed/" htmlUrl="https://mcdonaldinstitute.ca" />
+	</body>
+</opml>
