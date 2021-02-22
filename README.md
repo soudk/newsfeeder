@@ -1,4 +1,4 @@
-#About
+# About
 
 This is a dark mode version of [Newfeeder](https://newsfeeder.esstudio.site/), an RSS aggregator/reader. 
 
